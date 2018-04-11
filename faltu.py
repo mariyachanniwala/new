@@ -4,3 +4,7 @@ def add(x,y):
 
 add (5,4)
 add (6,5)
+
+def sub(x,y):
+    d=x-y
+    return d
