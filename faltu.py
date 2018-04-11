@@ -6,7 +6,7 @@ add (5,4)
 add (6,5)
 
 def sub(x,y):
-    d=x-y
+    d=y-x
     return d
 
 sub (9,5)
