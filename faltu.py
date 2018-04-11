@@ -8,3 +8,5 @@ add (6,5)
 def sub(x,y):
     d=x-y
     return d
+
+sub (9,5)
